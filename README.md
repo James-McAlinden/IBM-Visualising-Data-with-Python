@@ -1,4 +1,4 @@
-# IBM-Visualising-Data-with-Python
+# IBM Visualising Data With Python
 
 In this course I learnt multiple ways to effectively visualise data. I used many data visualisation techniques and learnt how to create simple and advanced graphs/charts such as waffle charts, area plots, histograms, bar charts, pie charts, scatter plots, word clouds, and choropleth maps.
 
